@@ -18,7 +18,7 @@ Students
 9. [JOHN FRANCIS](https://github.com/johnfrancis2001/PRODUCT-DESIGN-AND-DEVELOPMENT)
 10. [SAYANA.S](https://github.com/SayanaSatheesh/Product-Design-and-Development)
 11. [FAWAZ FIROZ](https://github.com/FawazFiroz/Product-Design-and-Development)
-12. [AVARNYA SABU] (https://github.com/Avarnya/Productdesign)
+12. [AVARNYA SABU](https://github.com/Avarnya/Productdesign)
 13. [RHEA SAMUEL](https://github.com/Rheasamuel1/productdesign)
 
 
