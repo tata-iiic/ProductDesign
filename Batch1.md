@@ -7,7 +7,7 @@ Instructors
 
 Students
 
-1. Amal Vijay
+1. [Sanha Salam](https://github.com/sanha-19/productdesign)
 
 
 
